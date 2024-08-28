@@ -1,5 +1,7 @@
-Nama : Pak Bepe
+Nama : Peter Putra Lesmana
 
-NPM : 2201234567
+NPM : 2306152361
 
-Kelas : PBP A
+Kelas : PBP B
+
+Hobi : Tidur
